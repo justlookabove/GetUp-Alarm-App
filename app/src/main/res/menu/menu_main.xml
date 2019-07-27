@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.thisoneguy.cmps_121.alarm.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/moving_button"
+        android:title="Mving Btn" />
+    <item
+        android:id="@+id/light_puzzle"
+        android:title="Light Pzl" />
+    <item
+        android:id="@+id/gyro"
+        android:title="Gyro" />
+    <item
+        android:id="@+id/math_problem"
+        android:title="Math Problem" />
+</menu>
